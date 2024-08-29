@@ -5,7 +5,7 @@ Course description
 
 Systematic methods for designing, coding, testing and documenting medium-sized programs. Tools and techniques to promote programming productivity and software quality. Topics include specifications, code review and inspection techniques, testing and   debugging methods and tools, file system navigation, scripting languages, software tools, environments, instrumenting and profiling and the fundamentals of software configuration management.
 
-The topics covered by this course will include:
+The topics covered by this course include:
 
   - Linux command-line basics with Bash
   - C programming language
@@ -18,4 +18,4 @@ The topics covered by this course will include:
   - Incremental software development and testing
   - Software evolution and the software life cycle
 
-Notable evaluations were 4 assignments and a term portfolio project. Assignments 1-4 were worth 9% each and the portfolio was worth 8%. I achieved a grade of 100% on all these assessments.
+Notable evaluations were 4 assignments and a term portfolio project. Assignments 1-4 were worth 9% each and the portfolio was worth 8%. A grade of 100% wasrecieved on all these assessments.
