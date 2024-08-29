@@ -18,4 +18,4 @@ The topics covered by this course include:
   - Incremental software development and testing
   - Software evolution and the software life cycle
 
-Notable evaluations were 4 assignments and a term portfolio project. Assignments 1-4 were worth 9% each and the portfolio was worth 8%. A grade of 100% wasrecieved on all these assessments.
+Notable evaluations were 4 assignments and a term portfolio project. Assignments 1-4 were worth 9% each and the portfolio was worth 8%. A grade of A+ was received on all these assessments.
