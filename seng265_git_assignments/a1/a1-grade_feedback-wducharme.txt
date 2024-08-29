@@ -1,0 +1,50 @@
+SENG 265 -- SPRING 2024
+ASSIGNMENT #1 EVALUATION
+========================
+
+Student name:   Wes Ducharme
+Student number: V00974267
+Student login:  wducharme
+
+-----
+(1) song_analyzer.c submitted and named appropriately; solution compiles
+and runs without errors or warnings.
+
+- Yes, the submitted file is correct, and the code
+  compiles successfully without errors or warnings.
+
+-----
+(2) Tests passed (and further comments)
+
+- All tests passed. Great work.
+
+-----
+(3) Code formatting and structure:
+
+ Positive aspects:
+
+- Good formatting and structure of the code that facilitates reading
+  and understanding.
+
+- Good naming conventions for functions and variables.
+
+- Good attempt at documenting the code using comments to describe
+  important aspects of the solution.
+
+- Reasonable attempt at code segmentation (i.e., appropriate function
+  creation and use). Consider dividing large functions into various
+  smaller functions with a smaller scope and a well-defined purpose.
+
+Improvement opportunities:
+
+- The structure of your code is a very important aspect. Consider improving it
+  by following good practices.
+
+- Consdier naming functions that describe functionality. 
+
+- Consdier adding documentation for structs, what each vairables are about. 
+
+-----
+
+GRADE: A+
+MARKS: 96
