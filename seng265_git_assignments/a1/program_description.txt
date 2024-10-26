@@ -1,1 +1,0 @@
-A pipes & filters C program that uses conditionals, loops, and string processing tools in C to process song data and printing it in a different format.
