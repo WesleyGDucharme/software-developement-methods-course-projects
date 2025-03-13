@@ -26,4 +26,4 @@ Assignemnt 2 is achieves the same purpose as assignment 2 though it is now done 
 
 Assignment 3 is the almost same as assignment 1. Done in C it's only difference is now we use C's dynamic memory allocation functions such as malloc and calloc to get our desired outputs. File name is song_analyzer.c in the a3 directory.
 
-Assignemnt 4 is a random image generator developed using an Object oriented apporach. Used an extensive number of classes to generate a random number of shapes such as circles and rectangles with random size paramaters within a some given ranges of values. The output of the file is an html image of a canvas with the generated images. The file name is a43.py in the a4 -> a43 directory.
+Assignemnt 4 is a random image generator developed using an Object oriented apporach. Used an extensive number of classes to generate a random number of shapes such as circles and rectangles with random size paramaters within a some given ranges of values. The output of the file is an html image of a canvas with the generated images. The file name is image_generator.py in the a4 -> a43 directory.
